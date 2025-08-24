@@ -1,6 +1,6 @@
 services:
   backend:
-    image: php:apache
+    build: .
     container_name: backend
     restart: always
     ports:
