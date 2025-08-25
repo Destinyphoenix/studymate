@@ -1,5 +1,5 @@
-CREATE DATABASE if not exists studyMate;
-use studyMate;
+CREATE DATABASE if not exists studymate;
+use studymate;
 
 -- Create the USER table
 CREATE TABLE USER (
